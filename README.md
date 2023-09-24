@@ -1,5 +1,7 @@
 # Sistema de registro y seguimiento de procesos relacionados con siembra y cosecha en la Ecohuerta de la Universidad de Medellín
 
+_por: Valentina Miranda Garcés_
+
 El proceso de producción de alimentos en la Ecohuerta comprende una larga cadena de actividades cuyo desarrollo efectivo maximiza la cantidad y sobre todo calidad de los productos obtenidos. Además de esto, el registro de la información sobre los recursos involucrados en el proceso permite una estimación más adecuada al momento de la comercialización.
 
 Por esta razón se presenta entonces la propuesta para llevar a cabo todos estos registros.
