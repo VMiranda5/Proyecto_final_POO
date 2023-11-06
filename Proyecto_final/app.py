@@ -1,5 +1,7 @@
-from src.view.console import UIConsola
+import tkinter as tk
+from src.GUI.main_application import MainApplication
 
 if __name__ == "__main__":
-    consola = UIConsola()
-    consola.ejecutar_app()
+    root = tk.Tk()
+    app = MainApplication(root)
+    root.mainloop()
